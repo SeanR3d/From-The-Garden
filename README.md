@@ -1,7 +1,7 @@
 ## From The Garden Website
 
 By: Sean Reddington\
-Date: ~Spring 2015?\
+Date: ~Spring 2015?
 
 
 This was the final project for my Web Design class at Bloomsburg University.
