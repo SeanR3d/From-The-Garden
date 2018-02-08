@@ -9,5 +9,5 @@ The concepts including company, text, info was worked on as a group,
 but we then split up to design and build our own websites.
 
 
-This website was designed using Adobe's Dreamweaver.
+This website was designed using Adobe's Dreamweaver and Muse.
 
